@@ -32,7 +32,8 @@ Please cite this paper if you use this code.
 
 ### Train and evaluation
 
-Pretrained Model trained on "P1"~"P9": [BaiduNetDesk Link](https://pan.baidu.com/s/1AhDSa_G39tcEssLhABff1g)
+Pretrained Model trained on "P1"~"P9": [BaiduNetDesk Link](https://pan.baidu.com/s/16aDUzmiOFHMDABCIgMMLCw 
+) code：z8z8
 
 put encoder model in 'AutoEncoder/results/P0' and regression model in 'results/P0'.
 #### AutoEncoder Training and evaluating
